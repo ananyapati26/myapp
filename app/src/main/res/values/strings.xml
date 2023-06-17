@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">myapp</string>
+    <string name="INSTAGRAM">
+        <a href = "https://www.instagram.com/ananyapati_/">INSTAGRAM</a>
+    </string>
+    <string name="LINKEDIN">
+        <a href = "https://www.linkedin.com/in/ananya-pati-b25027263/">LINKEDIN</a>
+    </string>
 </resources>

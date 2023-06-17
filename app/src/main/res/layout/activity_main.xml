@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F5F5F5"
-    tools:context=".MainActivity2">
+    tools:context=".MainActivity">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -89,7 +89,7 @@
 
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
+                            android:layout_height="152dp"
                             android:orientation="horizontal">
 
                             <LinearLayout
@@ -122,11 +122,11 @@
                                 <TextView
                                     android:id="@+id/textView321"
                                     android:layout_width="match_parent"
-                                    android:layout_height="wrap_content"
+                                    android:layout_height="match_parent"
                                     android:layout_margin="0dp"
                                     android:layout_marginBottom="8dp"
-                                    android:text="INSTAGRAM"
-                                    android:textAlignment="center"
+                                    android:text="@string/INSTAGRAM"
+                                    android:textAlignment="viewStart"
                                     android:textColor="#000000"
                                     android:textSize="13sp"
                                     android:textStyle="bold" />
@@ -205,8 +205,8 @@
                                     android:layout_height="wrap_content"
                                     android:layout_margin="0dp"
                                     android:layout_marginBottom="8dp"
-                                    android:text="LINKEDIN"
-                                    android:textAlignment="center"
+                                    android:text="@string/LINKEDIN"
+                                    android:textAlignment="textStart"
                                     android:textColor="#000000"
                                     android:textSize="13sp"
                                     android:textStyle="bold" />
